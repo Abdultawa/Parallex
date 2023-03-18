@@ -1,0 +1,14 @@
+body html {
+    height: 100%;
+}
+
+.parallex{
+    background-image: url(background.jpg);
+    
+    height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
